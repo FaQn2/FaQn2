@@ -1,21 +1,20 @@
-# 👋 Hola, soy Facundo — Frontend Architect, Mentor & Clean Code Evangelist
+# 👋 Hola, soy Facundo — Interface Developer | Pattern Lover | Mentor by Passion
 
-Buenas, acá estamos. Soy un arquitecto frontend obsesionado con la modularidad, la escalabilidad y el código que **hace lo que tiene que hacer, y bien**. Me especializo en Angular y React, creando arquitecturas limpias, mantenibles y pensadas para crecer sin que se te prenda fuego todo.
+Buenas, acá estamos. Soy un **developer frontend** obsesionado con la modularidad, la escalabilidad y el código que **hace lo que tiene que hacer, y bien**. Me especializo en Angular y React, creando arquitecturas limpias, mantenibles y pensadas para crecer sin que se te prenda fuego todo.
 
 ## 🚀 Tech Stack
 
 - **Frameworks:** Angular · React · Next.js
-- **State Management:** Redux · Signals · Zustand · Custom stores (Gentleman State Manager, GPX-Store)
+- **State Management:** Redux · Signals · Zustand 
 - **Arquitectura:** Clean Architecture · Hexagonal · Scream Architecture · Atomic Design · Smart/Dumb Components
 - **Testing:** Jest · Cypress · Testing Library
-- **Tooling:** LazyVim · Tmux · Zellij · Nx · Storybook · ESLint & Prettier police
-- **Contenido:** YouTube · Twitch · Discord · Charlas técnicas · Mentorías
+- **Tooling:** CursorAI · VSCode · Zellij · Nx · Storybook · ESLint & Prettier police
 
 ## 🧰 Filosofía de desarrollo
 
 > “No se trata de cuántas líneas de código escribís, sino de cuán poco tenés que tocar después.”
 
-Mi enfoque está en **separar bien las responsabilidades**, mantener la lógica desacoplada, y hacer que el código sea un buen vecino: que no rompa nada cuando se muda algo al lado. Aplico conceptos de arquitectura como si estuviera armando una casa que va a durar 30 años, no un rancho para zafar el finde.
+No me gusta el código improvisado. Pienso cada módulo como una pieza que tiene que encajar sin depender del resto. Busco **claridad, simplicidad y escalabilidad**. Si se mueve algo, nada debería explotar. Como si fuera una casa bien hecha: sólida, mantenible y lista para crecer con el tiempo.
 
 
 ## 🤝 Colaboraciones
