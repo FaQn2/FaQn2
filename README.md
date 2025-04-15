@@ -25,11 +25,8 @@ Abierto a charlas, contribuciones y proyectos que compartan la misma pasión por
 
 ### 📫 Conectemos
 
-- GitHub: [tuusuario](https://github.com/tuusuario)
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
-- YouTube: [Tu canal](https://youtube.com/@tuusuario)
-- Twitch: [twitch.tv/tuusuario](https://twitch.tv/tuusuario)
-
+- Instagram: (https://www.instagram.com/facun2tagliavini/)
+- Linkedin: (https://www.linkedin.com/in/facundotagliavini/)
 ---
 
 > “Código limpio y Mate. Ese es el camino.”
