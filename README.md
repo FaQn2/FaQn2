@@ -1,4 +1,4 @@
-# 👋 Hola, soy Facundo — Interface Developer | Pattern Lover | Mentor by Passion
+# 👋 Hola, soy Facundo — Frontend Developer | Interface Lover | Mentor by Passion
 
 Buenas, acá estamos. Soy un **developer frontend** obsesionado con la modularidad, la escalabilidad y el código que **hace lo que tiene que hacer, y bien**. Me especializo en Angular y React, creando arquitecturas limpias, mantenibles y pensadas para crecer sin que se te prenda fuego todo.
 
